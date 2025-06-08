@@ -1,6 +1,5 @@
 # 💫 About Me:
-💁 MySelf : Studying CSE in AI and ML, passionate about problem-solving through coding. Dedicated and diligent learner, focused on mastering ML while tackling coding challenges.<br>👨‍💻 I'm currently working on enhancing my understanding of Machine Learning and their applications in AI.<br>🫱🏻‍🫲🏿 I'm looking to collaborate on projects involving real-world data analysis and predictive modeling using AI and ML techniques.<br>👨‍💼 I'm looking for help with optimizing model  hyperparameters for better accuracy in complex datasets.<br>
-
+💁 MySelf :Passionate about technology, constantly learning and always exploring new ideas to innovate and grow.
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
