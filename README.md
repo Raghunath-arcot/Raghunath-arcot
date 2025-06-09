@@ -1,5 +1,5 @@
 # 💫 About Me:
-💁 MySelf :Passionate about technology, constantly learning and always exploring new ideas to innovate and grow.
+💁 MySelf - Passionate about technology, constantly learning and always exploring new ideas to innovate and grow.
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
