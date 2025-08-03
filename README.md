@@ -1,6 +1,10 @@
 # 💫 About Me:
 💁 Life for a Reason
 
+# 📂 Project Categorization:
+GitHub Repo - 
+1. 
+
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
