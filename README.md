@@ -3,7 +3,8 @@
 
 # 📂 Project Categorization:
 GitHub Repo - 
-1. 
+1. Learning/Clone Projects (CLONE-)
+2. 
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
