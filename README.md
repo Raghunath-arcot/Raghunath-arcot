@@ -2,7 +2,7 @@
 💁 Life for a Reason
 
 # 📂 Project Categorization:
-GitHub Repo - 
+GitHub Repo Convention: Prefix---Word1-Word2 
   Prefix:
   1. Learning/Clone Projects (CLONE-)
   2. 
