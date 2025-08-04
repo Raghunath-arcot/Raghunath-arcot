@@ -2,14 +2,20 @@
 💁 Life for a Reason
 
 # 📂 Project Categorization:
-GitHub Repo Convention: PREFIX---Word1-Word2 or PREFI-subprefix---Word1-Word2
+GitHub Repo Convention: PREFIX---Word1-Word2 or PREFIX-subprefix---Word1-Word2
   Prefix:
   1. Learning/Clone Projects (CLONE-)
   2. Web & UI Projects (WEB-)
   3. Enhancements (ENHANCE-)
   4. Information Logistics (INFO-)
   5. Self Projects (SELF-)
-  6. 
+  6. Learnings & Preparations (PREP-)
+  7. Full Stack Development (FSD-)
+  8. MERN Stack (MERN-)
+  9. Machine Learning (ML-)
+  10. Research Based (RESEARCH-)
+  11. Discontinued Projects (DIS-)
+  12. 
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
