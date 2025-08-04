@@ -15,7 +15,8 @@ GitHub Repo Convention: PREFIX---Word1-Word2 or PREFIX-subprefix---Word1-Word2
   9. Machine Learning (ML-)
   10. Research Based (RESEARCH-)
   11. Discontinued Projects (DIS-)
-  12. 
+  12. Backend (BACKEND-)
+  13. Frontend (FRONTEND-)
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
