@@ -8,7 +8,8 @@ GitHub Repo Convention: PREFIX---Word1-Word2 or PREFI-subprefix---Word1-Word2
   2. Web & UI Projects (WEB-)
   3. Enhancements (ENHANCE-)
   4. Information Logistics (INFO-)
-  5. 
+  5. Self Projects (SELF-)
+  6. 
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
