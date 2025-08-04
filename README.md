@@ -17,6 +17,7 @@ GitHub Repo Convention: PREFIX---Word1-Word2 or PREFIX-subprefix---Word1-Word2
   11. Discontinued Projects (DIS-)
   12. Backend (BACKEND-)
   13. Frontend (FRONTEND-)
+  14. App Development (App-)
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
