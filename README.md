@@ -1,5 +1,5 @@
 # 💫 About Me:
-💁 Life for a Reason
+💁 
 
 # 📂 Project Categorization:
 GitHub Repo Convention: PREFIX---Word1-Word2 or PREFIX-subprefix---Word1-Word2
@@ -20,7 +20,6 @@ GitHub Repo Convention: PREFIX---Word1-Word2 or PREFIX-subprefix---Word1-Word2
   14. App Development (App-)
   15. Networking (NETWORK-)
   16. Computer Vision (CV-)
-  17. 
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/raghunath-rao-arcot-584928223" target="_blank">
